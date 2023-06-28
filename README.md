@@ -1,4 +1,4 @@
-# Go API Server with Redis
+# REST API Server with Golang and Redis
 
 This project is centered around the implementation of a low-latency REST API server in Go. It demonstrates the fundamental CRUD (Create, Read, Update, Delete) operations by leveraging Redis as the data store. The combination of Go's performance characteristics and Redis's in-memory data handling makes this API server highly efficient and responsive, ideal for applications requiring real-time data access.
 
